@@ -5,4 +5,3 @@ A person's face provides a lot of information such as age, gender and identity. 
 # Results
 ![Alt text](https://github.com/paulpanwang/Age_and_Gender_Predict/tree/master/results/1.jpg)
 
-# Model file
